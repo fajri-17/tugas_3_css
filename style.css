@@ -1,0 +1,20 @@
+.p_pertama{
+    background-color: orange;
+    border-style: outset;
+}
+
+.p_kedua{
+    color: white;
+    background-color: blue;
+    border-style: outset;
+}
+.p_tiga{
+    font-family: 'Courier New', Courier, monospace;
+    border-style: outset;
+}
+.p_empat{
+    background-color: grey;
+    font-weight: bold;
+    border-style: outset;
+}
+
